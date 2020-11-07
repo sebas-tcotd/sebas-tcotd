@@ -17,7 +17,7 @@ Besides web development, I like doing other things like:
 - Writing 📖✍🏻
 - Play my quena 🎶
 
-I always try to grow and learn something new. I spend time off watching videos on YouTube, doing my hobbies above or trying to learn a new language (not necessarily a programming language 😅).
+I always try to grow and learn something new. I spend time off watching videos on YouTube, doing my hobbies above or trying to learn some human languages. 🗺
 
 <!--
 **sebastcotd/sebastcotd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
