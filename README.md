@@ -4,6 +4,8 @@
 
 Hi everyone, I'm Sebastian Vargas, a Software Engineering student. Actually, I'm learning so at Mayor National University of San Marcos, in Peru. 🇵🇪
 
+[![sebastcotd's github stats](https://github-readme-stats.vercel.app/api?username=sebastcotd&show_icons=true&bg_color=160deg,485563,29323c&title_color=ffffff&text_color=ffffff&icon_color=fafafa&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Some words about me
 
 I'm majoring myself into Web Development; being more accurate, Front-End Development 👨🏻‍💻
@@ -18,6 +20,8 @@ Besides web development, I like doing other things like:
 - Play my quena 🎶
 
 I always try to grow and learn something new. I spend time off watching videos on YouTube, doing my hobbies above or trying to learn some human languages. 🗺
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastcotd&bg_color=160deg,485563,29323c&title_color=ffffff&text_color=ffffff&icon_color=fafafa&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **sebastcotd/sebastcotd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
