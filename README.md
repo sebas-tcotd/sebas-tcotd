@@ -4,8 +4,6 @@
 
 Hi everyone, I'm Sebastian Vargas, a Software Engineering student. Actually, I'm learning so at Mayor National University of San Marcos, in Peru. 🇵🇪
 
-[![sebastcotd's github stats](https://github-readme-stats.vercel.app/api?username=sebastcotd&show_icons=true&bg_color=160deg,485563,29323c&title_color=ffffff&text_color=ffffff&icon_color=fafafa&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Some words about me
 
 I'm majoring myself into Web Development; being more accurate, Front-End Development 👨🏻‍💻
