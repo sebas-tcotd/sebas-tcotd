@@ -19,7 +19,7 @@ Besides web development, I like doing other things like:
 
 I always try to grow and learn something new. I spend time off watching videos on YouTube, doing my hobbies above or trying to learn some human languages. 🗺
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastcotd&bg_color=160deg,485563,29323c&title_color=ffffff&text_color=ffffff&icon_color=fafafa&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastcotd&layout=compact&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **sebastcotd/sebastcotd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
