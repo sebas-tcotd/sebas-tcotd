@@ -6,9 +6,10 @@ Hi everyone, I'm Sebastian Vargas, a Software Engineering student. Actu
 
 ## Some words about me
 
-I'm majoring myself into Web Development; being more accurate, Front-End Development 👨🏻‍💻
+I'm a Front-End developer who likes to do high-quality, good projects. Currently, I'm working at that. 👨🏻‍💻
+I like Design, UX/UI topics too. When I'm not doing fron-end stuff, I'm doing things related to design. 🎨
 
-I also have UX/UI skills and I like everything about that. Maybe I could be a Product Designer in the future, I don't rule out that option. 
+This is my place where generally I store my side-projects, like a sanctuary for my work and experimental ideas.
 
 Besides web development, I like doing other things like:
 
@@ -17,9 +18,13 @@ Besides web development, I like doing other things like:
 - Writing 📖✍🏻
 - Play my quena 🎶
 
-I always try to grow and learn something new. I spend time off watching videos on YouTube, doing my hobbies above or trying to learn some human languages. 🗺
+I always try to grow and learn something new. I spend time off reading a book, doing my hobbies above or trying to learn some human languages. 🗺
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebas-tcotd&layout=compact&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+## How to reach me
+
+- 💬 If you want to know what I think in a normal day or chat with me, check my [Twitter](https://twitter.com/sebas_tcotd).
+- 👨‍💼 If you want to contact me formally, here's my [LinkedIn](https://www.linkedin.com/in/sebas-vargas/).
+- 📷 And if you want to see some of the photos I've taken, take a look at my [Instagram](https://www.instagram.com/sebas_tcotd/)
 
 <!--
 **sebastcotd/sebastcotd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
