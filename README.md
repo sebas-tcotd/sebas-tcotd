@@ -7,7 +7,7 @@ Hi everyone, I'm Sebastian Vargas, a Software Engineering student. Actu
 ## Some words about me
 
 I'm a Front-End developer who likes to do high-quality, good projects. Currently, I'm working at that. 👨🏻‍💻
-I like Design, UX/UI topics too. When I'm not doing fron-end stuff, I'm doing things related to design. 🎨
+I like Design, UX/UI topics too. When I'm not doing front-end stuff, I'm doing things related to design. 🎨
 
 This is my place where generally I store my side-projects, like a sanctuary for my work and experimental ideas.
 
