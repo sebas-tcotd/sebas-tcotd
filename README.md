@@ -2,7 +2,7 @@
 
 # **Hi there! 👋😄**
 
-Hi everyone, I'm Sebastian Vargas, a Software Engineering student. Actually, I'm learning so at Mayor National University of San Marcos, in Peru. 🇵🇪
+Hi everyone, I'm Sebastian Vargas, a Software Engineer. At present, I am a graduate from there at Mayor National University of San Marcos, in Peru. 🇵🇪
 
 ## Some words about me
 
