@@ -1,42 +1,49 @@
 ![Banner head](https://i.imgur.com/oZvWyBO.png)
 
-# **Hi there! 👋😄**
+# Hi there! 👋
 
-Hi everyone, I'm Sebastian Vargas, a Software Engineer. At present, I am a graduate from there at Mayor National University of San Marcos, in Peru. 🇵🇪
+I'm **Sebastian Vargas** — Frontend Engineer based in Lima, Peru 🇵🇪
 
-## Some words about me
+I build scalable web and mobile applications for enterprise clients. Specialized in **React**, **TypeScript**, **Next.js**, and **design systems at scale**. Background in UX design and content modelling — I care about the gap between how something is built and how it feels to use.
 
-I'm a Front-End developer who likes to do high-quality, good projects. Currently, I'm working at that. 👨🏻‍💻
-I like Design, UX/UI topics too. When I'm not doing front-end stuff, I'm doing things related to design. 🎨
+Over 3+ years at [Apply Digital](https://www.applydigital.com), I contributed to 10 client projects across e-commerce, mobile, pharma, automotive, and real estate — including a microfrontend platform for one of Mexico's largest retailers, with a shared design system of 300+ components.
 
-This is my place where generally I store my side-projects, like a sanctuary for my work and experimental ideas.
+Currently **open to remote opportunities**. 🌎
 
-Besides web development, I like doing other things like:
+---
 
-- Sing 🎤
-- Photography 📸
-- Writing 📖✍🏻
-- Play my quena 🎶
+## What I work with
 
-I always try to grow and learn something new. I spend time off reading a book, doing my hobbies above or trying to learn some human languages. 🗺
+**Core:** React · TypeScript · Next.js (App Router) · JavaScript (ES6+) · TailwindCSS · HTML5/CSS3
+
+**Architecture:** Design Systems · Component Libraries · Microfrontends · Turborepo · Atomic Design · Clean Architecture
+
+**Mobile:** React Native · Cross-platform development
+
+**CMS:** Contentful · Sanity.io · Content Modelling · Headless CMS
+
+**Tooling:** Storybook · Git · Figma
+
+**AI:** Workflow automation · Prompt engineering · LLM tool integration
+
+---
+
+## Beyond the code
+
+When I'm not building things, I'm usually:
+
+- 📖 Writing — I have a published poetry book (*Sentimientos*, 2021) and a novel in progress
+- 📸 Photography
+- 🎸 Playing bass guitar
+- 🌍 Learning languages and exploring ideas
+
+This repository is my sanctuary — side projects, experiments, and things I'm figuring out.
+
+---
 
 ## How to reach me
 
-- 💬 If you want to know what I think in a normal day or chat with me, check my [Twitter](https://twitter.com/sebas_tcotd).
-- 👨‍💼 If you want to contact me formally, here's my [LinkedIn](https://www.linkedin.com/in/sebas-vargas/).
-- 📷 And if you want to see some of the photos I've taken, take a look at my [Instagram](https://www.instagram.com/sebas_tcotd/)
-
-<!--
-**sebastcotd/sebastcotd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💼 Professional: [LinkedIn](https://www.linkedin.com/in/sebastian-vargas-pizango)
+- 💬 Casual: [X / Twitter](https://x.com/sebas_tcotd)
+- 📷 Photography: [Instagram](https://www.instagram.com/sebas_tcotd)
+- 📧 Email: vargaspizango1@gmail.com
