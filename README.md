@@ -1,64 +1,64 @@
-# Hi, I'm Sebastian 👋
+# Sebastian Vargas
 
-### Senior Frontend Engineer · React · TypeScript · Next.js · Design Systems · Microfrontends
+**Senior Frontend Engineer** · React · TypeScript · Next.js · Design Systems
 
-3+ years building enterprise-scale frontend systems for clients across Latin America, North America, and Europe.  
-Specialized in **design systems at scale**, **microfrontend architectures**, and **AI-powered development workflows**.  
-Currently building [Capsule](https://github.com/sebas-tcotd/capsule) and [Vellum](https://github.com/sebas-tcotd/vellum) as solo founder.
+I build thoughtful digital products, from enterprise-scale frontend systems to independent cross-platform tools. I care about **clear architecture, reliable engineering, and interfaces that feel considered**.
 
-**Open to remote opportunities** · Lima, Peru (UTC-5) · Available immediately
+Based in Lima, Peru (UTC−5) · **Open to remote & hybrid opportunities**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sebas--vargas-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/sebas-vargas)
-[![Email](https://img.shields.io/badge/Email-vargaspizango1@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vargaspizango1@gmail.com)
-[![X](https://img.shields.io/badge/X-@sebas__tcotd-000000?style=flat&logo=x)](https://x.com/sebas_tcotd)
+[LinkedIn](https://www.linkedin.com/in/sebas-vargas/) · [Email](mailto:vargaspizango1@gmail.com)
 
 ---
 
-## What I build
+## Featured project
 
-- **Design systems & component libraries at scale** — 300+ component shared library across Turborepo monorepos for a major retail platform (Liverpool MX)
-- **Microfrontend architectures** — Next.js App Router + Clean Architecture for composable enterprise e-commerce
-- **AI-powered development workflows** — MCP integrations (Atlassian/Jira, Figma, GitHub) that automate context-switching, PR generation, and ticket auditing
-- **Cross-platform products** — React Native mobile apps and Tauri desktop apps from product brief to production
+### [Vellum](https://github.com/sebas-tcotd/vellum) — Cities: Skylines, mapped beautifully
 
----
+A cross-platform desktop map viewer and in-game exporter for *Cities: Skylines*. Vellum turns exported city data into interactive maps, with layers for roads, terrain, transit, buildings, and districts, plus PNG/SVG export.
 
-## Tech Stack
+I design and maintain the application across its frontend, native integration, rendering, packaging, and open-source development workflow.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat&logo=turborepo&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat&logo=tauri&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+**React · TypeScript · Tauri 2 · Rust · MapLibre GL JS · Turborepo**
 
----
+[Website](https://sebas-tcotd.github.io/vellum/) · [Microsoft Store](https://apps.microsoft.com/detail/9n65wg3v160t) · [Steam Workshop exporter](https://steamcommunity.com/sharedfiles/filedetails/?id=3815903587) · [Source and releases](https://github.com/sebas-tcotd/vellum)
 
-## Side Projects
+![A city visualized in Vellum](https://raw.githubusercontent.com/sebas-tcotd/vellum/main/docs/assets/readme/hero-map-costa-tijuca.webp)
 
-### [Capsule](https://github.com/sebas-tcotd/capsule) — AI-Powered Personal Wardrobe Optimizer
-Mobile-first SaaS that turns your closet into an intelligent inventory with contextual outfit suggestions.  
-`React Native` · `Next.js` · `Vertex AI / GPT-4 Vision` · Built with the BMAD Method (AI-driven agile framework)
+## Other work
 
-### [Vellum](https://github.com/sebas-tcotd/vellum) — Cartographic Visualizer for Cities: Skylines
-Desktop app that converts game save files into high-quality printable cartographic maps using real cartographic conventions.  
-`Tauri` · `Rust` · `SVG export` · Targets 12k+ concurrent players in an underserved community niche
+### [Capsule](https://github.com/sebas-tcotd/capsule) — Wardrobe System
+
+An early-stage product for organizing and making better use of a personal wardrobe. I'm refining its mobile-first direction and design foundations; the public repository currently documents the earlier TypeScript monorepo and component-library groundwork.
+
+**Product discovery · Design systems · React · TypeScript**
+
+### [Instagram Advisor](https://github.com/sebas-tcotd/instagram-advisor) — AI-assisted content workflow
+
+A small CLI and Claude Code workflow for evaluating images, exploring captions, and reviewing content against an explicit publishing strategy.
+
+**JavaScript · CLI tooling · AI workflows**
 
 ---
 
-## Selected Work
+## Engineering experience
 
-| Project | Impact | Stack |
-|---|---|---|
-| Liverpool MX — Retail E-commerce | 300+ component design system, agentic AI automation | Next.js · Turborepo · Microfrontends |
-| Multi-Brand Dealership Platform | +91% session duration · +28% site visits | Next.js · Design Systems |
-| CAFE Accelerator — Enterprise Library | Led architecture improvements, strong client reception | React · TypeScript · Storybook |
-| Apply Digital Website Relaunch | Cross-team content migration & CMS architecture | Sanity.io · Content Modelling |
+Previously at **Apply Digital**, working on enterprise products and frontend platforms:
+
+- **Design systems at scale:** contributed to a shared library of **300+ components** for a major retail platform, within a Turborepo-based ecosystem.
+- **Composable frontend architecture:** worked with **Next.js App Router, TypeScript, and microfrontends** on large e-commerce experiences.
+- **Cross-platform development:** experience spanning React web applications, React Native, and native desktop tooling with Tauri.
+- **Quality and maintainability:** component-driven development, Storybook, automated testing, and architectural boundaries.
+
+## Primary toolkit
+
+**Frontend:** TypeScript, React, Next.js, React Native, Tailwind CSS  
+**Architecture & tooling:** Design systems, microfrontends, Turborepo, Storybook, Vitest  
+**Beyond the browser:** Tauri, Rust, Node.js, PostgreSQL
 
 ---
 
-> *"Code is a craft. Ship things that matter."*
+### Let's connect
+
+I'm interested in **senior frontend engineering**, design systems, developer experience, and products where thoughtful UX and sound engineering matter equally.
+
+[Connect on LinkedIn](https://www.linkedin.com/in/sebas-vargas/) · [Send an email](mailto:vargaspizango1@gmail.com)
